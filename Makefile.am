@@ -1,3 +1,3 @@
-bin_PROGRAMS = sigtime
-sigtime_SOURCES = sigtime.c
-sigtime_CFLAGS = -Wall -O2
+bin_PROGRAMS = sigtime1 sigtime2
+sigtime1_SOURCES = sigtime1.c
+sigtime2_SOURCES = sigtime2.c
